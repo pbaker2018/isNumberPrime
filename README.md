@@ -3,6 +3,7 @@
 A basic one-page Android App built using Kotlin and Android Studio.
 
 
+
 ### How to use it?
 
 * type in a whole number
@@ -13,10 +14,13 @@ A basic one-page Android App built using Kotlin and Android Studio.
 SIMPLE!
 
 
+
 ### Screen Recording of my app
 
-See the folloing link to view my app in action, on Youtube:
+See the following link to view my app in action, on Youtube:
 
 ```
+
 https://youtu.be/NBgVINQuUpw
+
 ```

@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
             ++i
         }
         if (!flag) {
-            resultTxt.text = "$num is a Prime \uD83D\uDE04"
+            resultTxt.text = "$num is a Prime \uD83D\uDE03"
         } else {
             resultTxt.text = "$num is NOT a Prime \uD83D\uDE1E"
         }
